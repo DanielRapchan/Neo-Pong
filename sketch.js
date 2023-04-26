@@ -5,7 +5,7 @@ function setup() {
 //Variáveis para mostrar a bolinha
 let xBolinha = 300;
 let yBolinha = 200;
-let diametro = 20;s
+let diametro = 20;
 let raio = diametro / 2;
 
 //Variáveis para mover a bolinha
